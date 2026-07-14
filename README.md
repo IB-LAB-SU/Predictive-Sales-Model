@@ -2,7 +2,7 @@
 
 An end-to-end machine learning pipeline and interactive dashboard designed to solve a critical retail optimization problem: contrasting the structural drivers of top-line **Sales Amount** versus bottom-line **Net Profit**.
 
-Live Interactive Dashboard: *[Insert your Streamlit Cloud Link Here]*
+Live Interactive Dashboard: *(https://predictive-sales-model-5cthyj3lmjtzjgwev2wu4e.streamlit.app/)*
 
 ---
 
@@ -38,10 +38,3 @@ In retail analytics, optimizing purely for transaction volume can cause business
 * **Visual Frontend:** Streamlit, Plotly Express
 
 ---
-
-## 🚀 How to Run Locally
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
-   cd your-repo-name
